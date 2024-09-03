@@ -1,3 +1,5 @@
+// Abstract Method
+
 abstract class Computer{    //Abstract class cannot create the object
     abstract void turnOff();  //Abstract method can't be defined only declare
     abstract void turnOn();
