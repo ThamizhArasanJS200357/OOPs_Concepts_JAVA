@@ -1,3 +1,5 @@
+// Single Inheritances
+
 
 class Father{
     char gender='M';
