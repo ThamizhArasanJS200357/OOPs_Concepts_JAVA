@@ -1,3 +1,5 @@
+// Methods
+
 public class Methods{
     public static void main(String[]args){
         add(10,15);
