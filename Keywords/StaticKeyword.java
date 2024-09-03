@@ -1,3 +1,5 @@
+// Static Keyword
+
 
 class Father{
     static char gender='M';
