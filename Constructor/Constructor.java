@@ -1,3 +1,4 @@
+// Constructor
 
 class Sample{
     int rollno;
