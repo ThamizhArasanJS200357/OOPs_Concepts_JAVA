@@ -1,3 +1,5 @@
+// Interface
+
 interface Father{
     abstract void call();
     abstract void talk();
