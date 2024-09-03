@@ -1,3 +1,5 @@
+// Inheritances
+
 
 class Animal{
     int nolegs=4;
