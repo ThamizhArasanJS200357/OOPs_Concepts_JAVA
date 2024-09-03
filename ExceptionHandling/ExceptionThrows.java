@@ -1,3 +1,4 @@
+// Exception Throws
 
 class UserDefined extends Exception{
      UserDefined(String str) {
