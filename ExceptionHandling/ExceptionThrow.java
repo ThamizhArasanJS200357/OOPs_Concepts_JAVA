@@ -1,4 +1,4 @@
-
+// Exception Throw
 
 public class ExceptionThrow {
     static void check(int age){
