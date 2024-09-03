@@ -1,3 +1,5 @@
+// Parameterized Constructor
+
 
 class Sample{
     int rollno;
