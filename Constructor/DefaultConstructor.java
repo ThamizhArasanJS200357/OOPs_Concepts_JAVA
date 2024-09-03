@@ -1,3 +1,5 @@
+// Default Constructor
+
 
 class Sample{
     int rollno;
