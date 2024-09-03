@@ -1,3 +1,5 @@
+// Hierarchical Inheritances
+
 
 class GrandFather{
     char gender='M';
