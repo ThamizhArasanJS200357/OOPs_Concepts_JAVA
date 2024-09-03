@@ -1,3 +1,5 @@
+// Abstract Class
+
 abstract class Computer{    //Abstract class cannot create the object
     void turnOn(){
         System.out.println("Turning On");
